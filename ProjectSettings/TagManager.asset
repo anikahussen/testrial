@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - coin_count
+  - apple_count
+  - rose_count
+  - bottle_count
+  - apple
+  - coin
+  - rose
+  - bottle
+  - border
   layers:
   - Default
   - TransparentFX

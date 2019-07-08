@@ -1,0 +1,12 @@
+TO DO:
+
+Scripts 
+1. player can not walk through make items with tag "border" 
+2. increment count for each item when player passes through/clicks on 
+the hidden items 
+3. place limit so player does not fall off terrain 
+-------
+4. change player shape 
+5. animation when everything is found + bolden/highlight 
+when all of an item is found (or locked gray)
+6. specific animate the other items 
