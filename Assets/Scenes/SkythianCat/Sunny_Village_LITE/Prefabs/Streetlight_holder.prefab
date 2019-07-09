@@ -11,9 +11,10 @@ GameObject:
   - component: {fileID: 4227671838817948}
   - component: {fileID: 33286494202309298}
   - component: {fileID: 23651240065471748}
+  - component: {fileID: 1532842706746605783}
   m_Layer: 0
   m_Name: Streetlight_holder
-  m_TagString: Untagged
+  m_TagString: border
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -77,3 +78,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &1532842706746605783
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1826694869999452}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.30678448, y: 4.3024116, z: 1.3834132}
+  m_Center: {x: 1.617252e-23, y: 1.6662601, z: -0.53831404}
