@@ -2,7 +2,8 @@ TO DO:
 
 Scripts 
 
-
+1. add timer when reaches end and dont have all he items game over 
+2. when reach all the items total, winning screen 
 
 -------
 4. change player shape 
