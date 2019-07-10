@@ -1177,12 +1177,12 @@ PrefabInstance:
     - target: {fileID: 1520265622673731815, guid: 5717212467d43fe42aa564c562c5a884,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 23.36
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 1520265622673731815, guid: 5717212467d43fe42aa564c562c5a884,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 12.8
+      value: 13.1
       objectReference: {fileID: 0}
     - target: {fileID: 1520265622673731815, guid: 5717212467d43fe42aa564c562c5a884,
         type: 3}
@@ -1228,6 +1228,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1520265622673731815, guid: 5717212467d43fe42aa564c562c5a884,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 36.627605
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5717212467d43fe42aa564c562c5a884, type: 3}
@@ -2441,11 +2446,6 @@ PrefabInstance:
       propertyPath: m_TagString
       value: apple
       objectReference: {fileID: 0}
-    - target: {fileID: -8952633255637183653, guid: 570049b1ebaabc14ca1e19bd7c6167aa,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 26.8
-      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 570049b1ebaabc14ca1e19bd7c6167aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2515,6 +2515,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.0034477145
+      objectReference: {fileID: 0}
+    - target: {fileID: -8952633255637183653, guid: 570049b1ebaabc14ca1e19bd7c6167aa,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 26.8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 570049b1ebaabc14ca1e19bd7c6167aa, type: 3}
