@@ -13,6 +13,7 @@ TagManager:
   - rose
   - bottle
   - border
+  - player
   layers:
   - Default
   - TransparentFX
