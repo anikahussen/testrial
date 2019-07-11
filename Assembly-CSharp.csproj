@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\CameraControls.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\IcoBumpin.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Misc\HueCube.cs" />
@@ -74,6 +75,7 @@
     <Compile Include="Assets\Scripts\bottlePoints.cs" />
     <Compile Include="Assets\Scripts\CoinCollide.cs" />
     <Compile Include="Assets\Scripts\coinPoints.cs" />
+    <Compile Include="Assets\Scripts\GameOverScreen.cs" />
     <Compile Include="Assets\Scripts\modifyshader.cs" />
     <Compile Include="Assets\Scripts\playerCollision.cs" />
     <Compile Include="Assets\Scripts\PlayerFollow.cs" />
@@ -81,6 +83,8 @@
     <Compile Include="Assets\Scripts\RoseCollide.cs" />
     <Compile Include="Assets\Scripts\rosePoints.cs" />
     <Compile Include="Assets\Scripts\RotateCoin.cs" />
+    <Compile Include="Assets\Scripts\Timer.cs" />
+    <Compile Include="Assets\WinScreen.cs" />
     <None Include="Assets\ProCore\ProBuilder\Shader\pb_TransparentOverlay.shader" />
     <None Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\README.txt" />
     <None Include="Assets\ProCore\ProBuilder\Shader\pb_SelectionPicker.shader" />
