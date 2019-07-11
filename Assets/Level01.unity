@@ -1592,6 +1592,7 @@ GameObject:
   - component: {fileID: 1770584146}
   - component: {fileID: 1770584145}
   - component: {fileID: 1770584147}
+  - component: {fileID: 1770584148}
   m_Layer: 0
   m_Name: bottleIndicator
   m_TagString: Untagged
@@ -1638,6 +1639,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a6db5e4a0d70fd64c84883782e8bc3b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1770584148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1770584144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e2f6d18718aa354fb8daef3d326703c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1775697746
