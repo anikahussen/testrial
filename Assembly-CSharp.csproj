@@ -86,6 +86,7 @@
     <Compile Include="Assets\Scripts\RotateCoin.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
     <Compile Include="Assets\Scripts\WinScreen.cs" />
+    <Compile Include="Assets\testFloat.cs" />
     <None Include="Assets\ProCore\ProBuilder\Shader\pb_TransparentOverlay.shader" />
     <None Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\README.txt" />
     <None Include="Assets\ProCore\ProBuilder\Shader\pb_SelectionPicker.shader" />
