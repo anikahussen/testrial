@@ -2,13 +2,13 @@ TO DO:
 
 Scripts 
 
-1. add timer when reaches end and dont have all he items game over 
-2. when reach all the items total, winning screen 
-
 -------
 4. change player shape 
 5. animation when everything is found + bolden/highlight 
 when all of an item is found (or locked gray)
 6. specific animate the other items 
+ 
+-rose slow spin glow particles
+-apple sparks?
 
 
